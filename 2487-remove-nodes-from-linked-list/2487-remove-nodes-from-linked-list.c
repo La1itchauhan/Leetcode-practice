@@ -12,5 +12,4 @@ struct ListNode* removeNodes(struct ListNode* head) {
     return n;
     head->next=n;
     return head;
-    
 }

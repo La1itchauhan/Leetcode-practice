@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/La1itchauhan/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/La1itchauhan/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/La1itchauhan/Leetcode-practice/tree/master/3467-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/La1itchauhan/Leetcode-practice/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/La1itchauhan/Leetcode-practice/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
